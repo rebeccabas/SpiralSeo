@@ -1,6 +1,6 @@
 # SpiralSEO: Elevate Your Content with SEO's Magic!
 
-SpiralSEO is a tool aimemd at  generating search engine optimized keywords and titles for your text articles.
+SpiralSEO is a tool aimed at  generating search engine optimized keywords and titles for your text articles.
 
 
 ### Features 🌟

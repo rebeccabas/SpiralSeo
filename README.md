@@ -14,6 +14,14 @@ SpiralSEO is a tool aimed at  generating search engine optimized keywords and ti
 
 - **FastAPI Backend along with Gemini's api**
 
+## Screenshots
+
+### SpiralSEO Homepage
+![SpiralSEO Homepage](screenshots/spiralseo-01.png)
+
+### SpiralSEO Keyword Generation
+![SpiralSEO Keyword and Title Generation](screenshots/spiralseo-02.png)
+
 ## Get Started on Your SEO Journey
 
 ### Installation 🛠️

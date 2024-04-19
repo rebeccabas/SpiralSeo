@@ -12,7 +12,10 @@ load_dotenv()
 app = FastAPI()
 
 origins = [
-    "http://localhost:5173",  # Add the URL of your React app here
+    "http://localhost:5173",
+      "https://spiral-seo.vercel.app",
+         "https://spiralseo.com",
+           "https://www.spiralseo.com"  # Add the URL of your React app here
     # You can also add other origins if needed
 ]
 

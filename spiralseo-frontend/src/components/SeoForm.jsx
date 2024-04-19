@@ -10,7 +10,7 @@ const SEOForm = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/generate-seo/', {
+      const response = await fetch('https://spiralseo.onrender.com/generate-seo/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
